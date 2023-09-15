@@ -1,15 +1,19 @@
-h3{
-    color: pink;
+h3 {
+	color: pink;
 }
-#grecol{
-    color: grey;
+
+#grecol {
+	color: grey;
 }
-.content{
-    color: blue;
+
+.content {
+	color: blue;
 }
-p::selection{
-    color: green;
+
+p::selection {
+	color: green;
 }
-.yellow{
-    color: yellow;
+
+.yellow {
+	color: yellow;
 }
