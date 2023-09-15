@@ -1,0 +1,9 @@
+a[href^="https://"]{
+    color: red;
+}
+a[href^="#"]{
+    background-color: green;
+}
+p{
+    font-size: 26px;
+}
